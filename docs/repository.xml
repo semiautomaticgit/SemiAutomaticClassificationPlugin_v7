@@ -10,7 +10,7 @@
         <file_name>SemiAutomaticClassificationPlugin-master.zip</file_name>
         <icon>https://1.bp.blogspot.com/-Vo3Oba6OQic/X58XMwoE98I/AAAAAAAAGGI/bKIZ-VcKzVgiBWMox37wYrgCKmZaNS41ACLcBGAsYHQ/s96/semiautomaticclassificationplugin.png</icon>
         <author_name><![CDATA[Luca Congedo]]></author_name>
-        <download_url>https://codeload.github.com/semiautomaticgit/SemiAutomaticClassificationPlugin/zip/master</download_url>
+        <download_url>https://codeload.github.com/semiautomaticgit/SemiAutomaticClassificationPlugin_v7/zip/master</download_url>
         <tracker><![CDATA[https://github.com/semiautomaticgit/SemiAutomaticClassificationPlugin/issues]]></tracker>
         <repository><![CDATA[https://github.com/semiautomaticgit/SemiAutomaticClassificationPlugin]]></repository>
         <tags><![CDATA[Raster, Classification, Land Cover, Remote Sensing, Analysis, ASTER, GOES, Landsat, Sentinel, Supervised classification, Spectral signature, Mask, Clip, Accuracy, Landscape, Copernicus, Random Forest, SNAP, Processing]]></tags>
